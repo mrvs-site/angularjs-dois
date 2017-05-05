@@ -1,3 +1,7 @@
-#cor {
+#cor-fundo {
     background-color: lavender;
+}
+
+#cor {
+    background-image: linear-gradient(to right, white, #007980);
 }
