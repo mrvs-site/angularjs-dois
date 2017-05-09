@@ -5,3 +5,14 @@
 #cor {
     background-image: linear-gradient(to right, white, #007980);
 }
+
+#home {
+    padding-top: 65px;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #FFEB3B;
+    background-color: #f70505;
+}
