@@ -14,3 +14,15 @@
     border-style: ridge;
     padding: 10px !important;
 }
+
+#myCarousel .foto-um {
+    /*background-image: url('');*/
+}
+
+#myCarousel .foto-dois {
+    /*background-image: url('http://placehold.it/500x500');*/
+}
+
+#myCarousel .foto-tres {
+    /*background-image: url('http://placehold.it/500x500');*/
+}
